@@ -1,1 +1,3 @@
+hi
+blue
 red
